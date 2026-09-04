@@ -7,7 +7,7 @@ about:
   head: 049548f
   archived: false
   latestVersion: v0.4.1743
-  collectedAt: 2026-09-04T19:27:08Z
+  collectedAt: 2026-09-04T21:04:07Z
 timeline:
   created: 2012-08-20
   lastCommit: 2025-04-27
@@ -82,6 +82,59 @@ total:
   openIssue: 0
   commit: 2600
 ---
+path: /home/runner/.x-repo/github.com/soimort/you-get
+collectedAt: 2026-09-04T21:04:07Z
+loc:
+  Python:
+    code: 11381
+    comments: 834
+    blanks: 2323
+    files: 126
+  ReStructuredText:
+    code: 566
+    comments: 0
+    blanks: 248
+    files: 2
+  Makefile:
+    code: 23
+    comments: 0
+    blanks: 10
+    files: 1
+  Bash:
+    code: 22
+    comments: 4
+    blanks: 5
+    files: 1
+  Fish:
+    code: 21
+    comments: 1
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 8
+    comments: 0
+    blanks: 2
+    files: 1
+  Zsh:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 375
+    blanks: 154
+    files: 3
+total:
+  code: 12032
+  comments: 1215
+  blanks: 2743
+  files: 137
 ---
 date: "2026-08-24"
 repo:
