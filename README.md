@@ -7,7 +7,7 @@
 - **Latest release**: `v0.4.1743` (2025-01-04)
 - **Last commit**: 2025-04-27
 - **License**: NOASSERTION
-- **Stars**: 56877 · **Forks**: 9697 · **Open issues**: 0 · **Contributors**: 226
+- **Stars**: 56879 · **Forks**: 9698 · **Open issues**: 0 · **Contributors**: 226
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/you-get> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:12:26Z._
+_Last regenerated: 2026-09-09T05:35:03Z._
