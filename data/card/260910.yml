@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.1743"
   latestRelease: "v0.4.1743"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:37:42Z
+  collectedAt: 2026-09-10T20:32:54Z
 timeline:
   created: 2012-08-20
   lastCommit: 2025-04-27
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 56880
   watcher: 1350
-  fork: 9697
+  fork: 9696
   release: 123
   contributor: 226
   pullRequest: 1094
@@ -85,7 +85,7 @@ total:
   commit: 2600
 ---
 path: /home/runner/.x-repo/github.com/soimort/you-get
-collectedAt: 2026-09-10T05:37:43Z
+collectedAt: 2026-09-10T20:32:57Z
 loc:
   Python:
     code: 11381
