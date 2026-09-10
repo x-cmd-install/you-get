@@ -80,7 +80,7 @@ Reported by **69** distros on [repology.org](https://repology.org/project/you-ge
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.4.1743` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.4.1700` | ⚠️ outdated |
 | Void | `0.4.1650` | ⚠️ outdated |
 | Alpine edge | `0.4.1650` | ⚠️ outdated |
@@ -95,4 +95,4 @@ Install metadata for you-get lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:33:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:16:39Z._
