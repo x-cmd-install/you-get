@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 56,867 · **Forks**: 9,686 · **Open issues**: 0 · **Contributors**: 226
+- **Stars**: 56,866 · **Forks**: 9,687 · **Open issues**: 0 · **Contributors**: 226
 
 ## Totals (cumulative)
 
-- **Releases**: 123 · **Merged PRs**: 582 · **Open PRs**: 123 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2600
+- **Releases**: 123 · **Merged PRs**: 582 · **Open PRs**: 124 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2600
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 1 | 0 | 15 | 0 | 0 | 16 |
+| 30d | 2026-09-06 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 1 | 0 | 16 | 0 | 0 | 16 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for you-get lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:26:16Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:08:50Z._
