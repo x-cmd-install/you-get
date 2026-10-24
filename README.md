@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 56,858 · **Forks**: 9,669 · **Open issues**: 0 · **Contributors**: 226
+- **Stars**: 56,857 · **Forks**: 9,668 · **Open issues**: 0 · **Contributors**: 226
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 1 | 0 | 14 | 0 | 0 | 11 |
+| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 0 | 0 | 6 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 1 | 0 | 14 | 0 | 0 | 11 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **69** distros on [repology.org](https://repology.org/project/you-get). **8** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **70** distros on [repology.org](https://repology.org/project/you-get). **9** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for you-get lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:24:55Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:17:24Z._
