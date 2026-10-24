@@ -1,3 +1,14 @@
+- repo: nix_stable_24_05
+  srcname: you-get
+  visiblename: you-get
+  version: 0.4.1650
+  origversion: null
+  status: outdated
+  summary: A tiny command line utility to download media contents from the web
+  maintainers:
+    - ryneeverett@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: you-get
@@ -9,17 +20,6 @@
   summary: Bash completions for you-get
   maintainers:
     - prspkt@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: you-get
-  visiblename: you-get
-  version: 0.4.1700
-  origversion: null
-  status: outdated
-  summary: Tiny command line utility to download media contents from the web
-  maintainers:
-    - ryneeverett@gmail.com
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -150,6 +150,17 @@
   summary: Bash completions for you-get
   maintainers:
     - prspkt@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: you-get
+  visiblename: you-get
+  version: 0.4.1700
+  origversion: null
+  status: outdated
+  summary: Tiny command line utility to download media contents from the web
+  maintainers:
+    - ryneeverett@gmail.com
   licenses:
     - MIT
 - repo: alpine_3_19
@@ -684,18 +695,7 @@
     - MIT
   categories:
     - net-misc
-- repo: nix_stable_24_05
-  srcname: you-get
-  visiblename: you-get
-  version: 0.4.1650
-  origversion: null
-  status: outdated
-  summary: A tiny command line utility to download media contents from the web
-  maintainers:
-    - ryneeverett@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_25_05
   srcname: you-get
   visiblename: you-get
   version: 0.4.1700
@@ -790,6 +790,16 @@
     - d.zlatanidis@gmail.com
   categories:
     - network
+- repo: starkos
+  subrepo: extra
+  srcname: you-get
+  visiblename: you-get
+  version: 0.4.1743
+  origversion: 0.4.1743-1
+  status: newest
+  summary: A YouTube/Youku/Niconico video downloader written in Python 3
+  maintainers:
+    - starkos@disroot.org
 - repo: t2
   srcname: you-get
   visiblename: you-get
