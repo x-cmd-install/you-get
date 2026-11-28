@@ -48,7 +48,7 @@ x install you-get
 
 ## 流行度
 
-- **Star**: 56,853 · **Fork**: 9,641 · **开放 issue**: 0 · **贡献者**: 226
+- **Star**: 56,851 · **Fork**: 9,640 · **开放 issue**: 0 · **贡献者**: 226
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install you-get
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-31 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-12-02 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last720d | 2024-12-07 | 1 | 0 | 12 | 0 | 0 | 11 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-06-01 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-12-03 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last720d | 2024-12-08 | 1 | 0 | 12 | 0 | 0 | 11 |
 
 ## Release 资产
 
@@ -74,18 +74,6 @@ x install you-get
 | [you_get-0.4.1743.tar.gz](https://github.com/soimort/you-get/releases/download/v0.4.1743/you_get-0.4.1743.tar.gz) | 152.8 KiB | `native/unknown` |
 | [you_get-0.4.1743.tar.gz.asc](https://github.com/soimort/you-get/releases/download/v0.4.1743/you_get-0.4.1743.tar.gz.asc) | 488 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/you-get) 上共有 **70** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.4.1743` | ✅ latest |
-| Nix unstable | `0.4.1700` | ⚠️ outdated |
-| Void | `0.4.1650` | ⚠️ outdated |
-| Alpine edge | `0.4.1650` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.4.1743` | ✅ latest |
-
 ## 改进这些数据
 
 you-get 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `you-get` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +83,4 @@ you-get 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T10:05:05Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:54:37Z._
